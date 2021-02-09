@@ -4,6 +4,7 @@ Scripts to download fundamental data on stocks from Yahoo Finance webpage.
 ## Contents
 In the functions file there're functions to download fundamental data from Yahoo Finance webpage. The download script is only a caller with a simple command line interface.
 <br>
+<br>
 The functions are:
 - balance: newest data on balance sheet page <br>
 - balance_allyears: all available years <br>
@@ -32,7 +33,9 @@ There're several ways to use:
 
 The most important part is to download the chrome webdriver from this page: https://chromedriver.chromium.org/downloads
 <br>
+<br>
 Unzip the driver inside your repo and name it as 'chromedriver'. It's important that the driver match your operational system and your Chrome version.
+<br>
 <br>
 The chromedriver listed inside this repository probably will not match yours, so do your work.
 <br>
